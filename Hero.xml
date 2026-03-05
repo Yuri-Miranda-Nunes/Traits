@@ -3,7 +3,7 @@
   <modifiers>
     <modifier visible="0">
       <effects>
-        <itemSlots base="6" />
+        <itemSlots add="3" />
       </effects>
     </modifier>
     <modifier>

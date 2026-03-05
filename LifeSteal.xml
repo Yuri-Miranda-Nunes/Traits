@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trait icon="Attributes/LifeSteal">
+  <modifiers>
+    <modifier visible="0">
+      <effects>
+        <itemSlots base="6" />
+      </effects>
+    </modifier>
+    <modifier>
+      <effects>
+        <lifeStealFactor add="1.0" />
+        <lifeStealRadius add="1.0" />
+      </effects>
+    </modifier>
+  </modifiers>
+</trait>

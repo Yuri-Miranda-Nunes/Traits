@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trait>
+  <modifiers>
+    <modifier visible="0">
+      <effects>
+        <itemSlots base="6" />
+      </effects>
+    </modifier>
+    <modifier>
+      <effects>
+        <meleeAttacks mul="0.5" />
+      </effects>
+    </modifier>
+  </modifiers>
+</trait>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trait category="Debuff">
+  <onUnitDisappearedModifiers>
+    <modifier>
+      <effects>
+        <addUnit name="Neutral/Psychneuein" />
+      </effects>
+    </modifier>
+  </onUnitDisappearedModifiers>
+  <modifiers>
+    <modifier visible="0">
+      <effects>
+        <itemSlots base="6" />
+      </effects>
+    </modifier>
+  </modifiers>
+</trait>

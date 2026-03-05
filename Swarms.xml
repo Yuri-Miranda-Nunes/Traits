@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trait alwaysVisible="1">
+  <modifiers>
+    <modifier visible="0">
+      <effects>
+        <itemSlots base="6" />
+      </effects>
+    </modifier>
+    <modifier>
+      <conditions>
+        <weapon>
+          <additionalMembersHit greater="0" />
+        </weapon>
+      </conditions>
+      <effects>
+        <attacksTaken mul="0.25" />
+      </effects>
+    </modifier>
+  </modifiers>
+</trait>

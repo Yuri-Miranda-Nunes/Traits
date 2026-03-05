@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trait alwaysVisible="1">
+  <modifiers>
+    <modifier visible="0">
+      <effects>
+        <itemSlots base="6" />
+      </effects>
+    </modifier>
+    <modifier>
+      <conditions>
+        <encounter>
+          <opponent>
+            <trait name="Flyer" />
+          </opponent>
+        </encounter>
+      </conditions>
+      <effects>
+        <damage mul="0.25" />
+      </effects>
+    </modifier>
+  </modifiers>
+</trait>

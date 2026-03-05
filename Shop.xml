@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trait icon="Actions/Shop">
+  <modifiers>
+    <modifier visible="0">
+      <effects>
+        <itemSlots base="6" />
+      </effects>
+    </modifier>
+    <modifier>
+      <conditions>
+        <unit>
+          <trait name="Hero" />
+        </unit>
+      </conditions>
+    </modifier>
+  </modifiers>
+</trait>

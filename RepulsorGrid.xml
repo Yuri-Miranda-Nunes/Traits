@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trait>
+  <modifiers>
+    <modifier visible="0">
+      <effects>
+        <itemSlots base="6" />
+      </effects>
+    </modifier>
+    <modifier>
+      <effects>
+        <rangedDamageReduction add="0.17" />
+      </effects>
+    </modifier>
+    <modifier>
+      <conditions>
+        <weapon>
+          <noTrait name="Melee" />
+          <noTrait name="Witchfire" />
+          <additionalMembersHit equal="0" />
+        </weapon>
+      </conditions>
+      <effects>
+        <damageReturnFactor add="0.17" />
+      </effects>
+    </modifier>
+  </modifiers>
+</trait>

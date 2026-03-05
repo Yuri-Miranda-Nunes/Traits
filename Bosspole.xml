@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trait>
+  <modifiers>
+    <modifier visible="0">
+      <effects>
+        <itemSlots base="6" />
+      </effects>
+    </modifier>
+    <modifier>
+      <effects>
+        <moraleLossFactorPerAllyInArea add="-0.015" />
+      </effects>
+    </modifier>
+  </modifiers>
+</trait>

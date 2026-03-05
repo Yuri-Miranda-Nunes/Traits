@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trait>
+  <targetConditions>
+    <unit>
+      <noTrait name="Flyer" />
+    </unit>
+  </targetConditions>
+  <modifiers>
+    <modifier visible="0">
+      <effects>
+        <itemSlots base="6" />
+      </effects>
+    </modifier>
+  </modifiers>
+</trait>
